@@ -1,0 +1,1 @@
+worker: BOT_TOKEN=$BOT_TOKEN python bot.py
